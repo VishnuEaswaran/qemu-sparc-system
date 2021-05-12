@@ -1,0 +1,3 @@
+BR2_DEFCONFIG="$(CONFIG_DIR)/defconfig"
+BR2_CCACHE=y
+BR2_CCACHE_DIR="$(PWD)/../.buildroot-ccache"
